@@ -1,3 +1,3 @@
 # CQL for SQL
 
-Intro workshop to Cypher for SQL developers 
+Intro workshop to Cypher for SQL developers by @mneedham
