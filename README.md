@@ -1,1 +1,3 @@
-# cypher-for-sql-developers
+# Cypher for SQL Developers 
+
+Intro workshop
