@@ -1,3 +1,3 @@
-# Cypher for SQL Developers 
+# CQL for SQL
 
-Intro workshop
+Intro workshop to Cypher for SQL developers 
